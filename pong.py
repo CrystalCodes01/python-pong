@@ -4,7 +4,7 @@ try:
 except ImportError:
     import SimpleGUICS2Pygame.simpleguics2pygame as simplegui
 
-
+import random
 import os
 # from flask import Flask
 
